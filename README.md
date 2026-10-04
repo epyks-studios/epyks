@@ -4,7 +4,7 @@
 
 ### **Windows:** https://epyks.org/downloads/Epyks-0.5.2-windows-x64.zip
 
-(6a149f646d4c776b6e43d56521470d66f81f1e96a03a23b77a1582d3bc27b7e2  Epyks-0.5.2-windows-x64.zip)
+(27510d11788ee2699829d4d6eb4638066f750c2f9360377ef8663414fa51312f  Epyks-0.5.3-windows-x64.zip)
 
 ### **Linux:**
 
