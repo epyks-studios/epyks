@@ -3,7 +3,7 @@
 <img width="450" height="420" alt="epyks logo commercial" src="https://github.com/user-attachments/assets/ce708053-92d6-4fbe-8dd3-0d0d736f50ed" />
 
 
-Created by a regular person, who actually cares about other people in our world.
+Created by a regular person, who actually cares about other people!
 
 For a full list of features, visit https://epyks.org
 
