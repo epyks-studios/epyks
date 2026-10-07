@@ -5,7 +5,7 @@
 
 Created by a regular person, who actually cares about other people!
 
-For a full list of features, visit https://epyks.org
+For a full list of features, please visit https://epyks.org
 
 ## **Windows:** https://epyks.org/downloads/Epyks-0.5.2-windows-x64.zip
 
