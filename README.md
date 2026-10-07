@@ -1,6 +1,6 @@
 # epyks_ 
 ##### Anonymous PTP messaging platform - local data only - choose epyks - **Get secure today**!
-<img width="550" height="550" alt="epyks logo commercial" src="https://github.com/user-attachments/assets/ce708053-92d6-4fbe-8dd3-0d0d736f50ed" />
+<img width="450" height="450" alt="epyks logo commercial" src="https://github.com/user-attachments/assets/ce708053-92d6-4fbe-8dd3-0d0d736f50ed" />
 
 
 Created by a regular person, who actually cares about other people in our world.
