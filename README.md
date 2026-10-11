@@ -9,11 +9,10 @@ For a full list of features: https://epyks.org (donations appreciated)
 
 
 
-## **Windows:** https://epyks.org
+### **Official Website/Download:** https://epyks.org
 
-(27510d11788ee2699829d4d6eb4638066f750c2f9360377ef8663414fa51312f  Epyks-0.5.3-windows-x64.zip)
 
-## **Linux:**
+### **Microsoft Store:** https://apps.microsoft.com/detail/9NDZD1NDGS0C?hl=en-us&gl=CA&ocid=pdpshare
 
 ## **Android:** 
 
